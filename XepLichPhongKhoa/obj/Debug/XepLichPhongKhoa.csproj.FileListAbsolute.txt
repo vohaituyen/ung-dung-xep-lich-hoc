@@ -1,0 +1,28 @@
+c:\users\tuyen\documents\visual studio 2013\Projects\XepLichPhongKhoa\XepLichPhongKhoa\bin\Debug\XepLichPhongKhoa.exe.config
+c:\users\tuyen\documents\visual studio 2013\Projects\XepLichPhongKhoa\XepLichPhongKhoa\bin\Debug\XepLichPhongKhoa.exe
+c:\users\tuyen\documents\visual studio 2013\Projects\XepLichPhongKhoa\XepLichPhongKhoa\bin\Debug\XepLichPhongKhoa.pdb
+c:\users\tuyen\documents\visual studio 2013\Projects\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.csprojResolveAssemblyReference.cache
+c:\users\tuyen\documents\visual studio 2013\Projects\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.fLogin.resources
+c:\users\tuyen\documents\visual studio 2013\Projects\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.Properties.Resources.resources
+c:\users\tuyen\documents\visual studio 2013\Projects\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.csproj.GenerateResource.Cache
+c:\users\tuyen\documents\visual studio 2013\Projects\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.exe
+c:\users\tuyen\documents\visual studio 2013\Projects\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.pdb
+c:\users\tuyen\documents\visual studio 2013\Projects\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.fMain.resources
+C:\Users\Tuyen\documents\visual studio 2013\Projects\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.fInsertAcc.resources
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\bin\Debug\XepLichPhongKhoa.exe.config
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\bin\Debug\XepLichPhongKhoa.exe
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\bin\Debug\XepLichPhongKhoa.pdb
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.csproj.AssemblyReference.cache
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.fLogin.resources
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.fInsertAcc.resources
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.fMain.resources
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.Properties.Resources.resources
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.csproj.GenerateResource.cache
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.csproj.CoreCompileInputs.cache
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.exe
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.pdb
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\obj\Debug\XepLichPhongKhoa.AddStuToCou.resources
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\bin\Debug\EPPlus.dll
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\bin\Debug\EPPlus.Interfaces.dll
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\bin\Debug\EPPlus.System.Drawing.dll
+D:\Recovery\BaiTap\Ky6\QTDUPM\New folder\BAOCAO_PTTKGT_NHOM_Tuyen_Khanh_Tien\XepLichPhongKhoa\XepLichPhongKhoa\bin\Debug\EPPlus.xml
